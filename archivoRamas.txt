@@ -5,3 +5,4 @@ hola
 >>>>>>> rama1
 
 Cambio de colaborador
+Cambio 2 de colaborador
